@@ -66,6 +66,6 @@ Hybird Cards
 - opvxx200
   * OpenVox X204E/P: PCI-Express or PCI with 4 modules
                      FXO200M -- 2 FXO ports
-             FXS200M -- 2 FXS ports
-             D100M -- single E1/T1/J1 port
-             B200M -- 2 Ports BRI (TE/NT)
+                     FXS200M -- 2 FXS ports
+                     D100M -- single E1/T1/J1 port
+                     B200M -- 2 Ports BRI (TE/NT)
